@@ -1,4 +1,4 @@
-### [v0.0.0](https://github.com/xus-code/esbuild-register/compare/...v0.0.0)
+### [v1.0.0](https://github.com/xus-code/esbuild-register/compare/...v1.0.0)
 
 `2021-03-22`
 
